@@ -1,0 +1,14 @@
+#flexbox-margin-auto__content{
+
+    background-color: #333;
+    display: flex;
+
+    height: 100px;
+    width: 200px;
+  
+    background: #ffff99;
+    color: #333;
+  }
+  .flexbox-margin-auto__content {
+    margin: auto;
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "dw",
+			"path": "../../dw"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desarrollo Web y Movil"
+	}
+}
